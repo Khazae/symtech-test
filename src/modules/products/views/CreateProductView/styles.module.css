@@ -1,0 +1,25 @@
+.formContent {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  padding: 40px 20px;
+  border-radius: 10px;
+}
+
+.title {
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.formContent input {
+  margin-bottom: 20px;
+}
+
+.formContent input:last-child {
+  margin-bottom: 0;
+}
+
+.formContent textarea {
+  margin-bottom: 20px;
+}
